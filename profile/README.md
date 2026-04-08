@@ -31,13 +31,13 @@ Ein vollständiges KI- und Produktivitäts-Ökosystem, das **jeder einsehen und 
 
 <table>
 <tr>
+<td align="center" width="16%"><b>💬</b><br>AI Chat</td>
+<td align="center" width="14%"><b>🤖</b><br>Agents</td>
+<td align="center" width="14%"><b>⚡</b><br>Automations</td>
 <td align="center" width="14%"><b>📇</b><br>Contacts</td>
 <td align="center" width="14%"><b>📅</b><br>Calendar</td>
 <td align="center" width="14%"><b>✅</b><br>Tasks</td>
 <td align="center" width="14%"><b>📝</b><br>Notes</td>
-<td align="center" width="14%"><b>💬</b><br>AI Chat</td>
-<td align="center" width="14%"><b>🤖</b><br>Agents</td>
-<td align="center" width="14%"><b>⚡</b><br>Automations</td>
 </tr>
 </table>
 
