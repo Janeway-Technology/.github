@@ -152,14 +152,12 @@ Laufen ohne die Suite: Hosting, CMS mit Buchungsmodul, Warenwirtschaft und Shop.
 |---|---|
 | [handy-spiegel](https://github.com/Janeway-Technology/handy-spiegel) | Android-Handy auf PC oder Fernseher spiegeln – mit wenig Verzögerung, Controller und ohne Kabel. GTK4-Oberfläche für scrcpy als AppImage. *(öffentlich)* |
 | [janeway-dictate](https://github.com/Janeway-Technology/janeway-dictate) | Push-to-Talk Speech-to-Text for GNOME/Linux using faster-whisper *(archiviert, öffentlich)* |
-| [janeway-technology-website](https://github.com/Janeway-Technology/janeway-technology-website) | Firmen-Website von Janeway Technology (janeway-technology.com) |
-| [lpritzkow-website](https://github.com/Janeway-Technology/lpritzkow-website) | Personal branding website lpritzkow.de — Next.js 16, React 19, Tailwind v4, Docker |
 | [matrix-e2ee-bot](https://github.com/Janeway-Technology/matrix-e2ee-bot) | Self-hosted Matrix bot microservice with E2EE and REST API *(öffentlich)* |
 | [telegram-signal-analyse](https://github.com/Janeway-Technology/telegram-signal-analyse) | Telegram-Signalanalyse: liest Signalgruppen, erkennt Handelssignale und prüft sie |
 
-## Kundenwebsites
+## Websites
 
-Übersicht mit Kunden: [kundenprojekte](https://github.com/Janeway-Technology/kundenprojekte).
+Unsere eigenen Websites und die Kundenseiten; nach Kunden geordnet: [kundenprojekte](https://github.com/Janeway-Technology/kundenprojekte).
 
 | Repo | Worum es geht |
 |---|---|
@@ -174,7 +172,9 @@ Laufen ohne die Suite: Hosting, CMS mit Buchungsmodul, Warenwirtschaft und Shop.
 | [gut-hesterberg-website](https://github.com/Janeway-Technology/gut-hesterberg-website) | Website Gut Hesterberg — Next.js, Kundenprojekt von Janeway Technology |
 | [hotel-altes-kasino-website](https://github.com/Janeway-Technology/hotel-altes-kasino-website) | Website Hotel Altes Kasino — Kundenprojekt von Janeway Technology |
 | [iq-waermetechnik-website](https://github.com/Janeway-Technology/iq-waermetechnik-website) | Website IQ Wärmetechnik GmbH, Neuruppin — Next.js 16 |
+| [janeway-technology-website](https://github.com/Janeway-Technology/janeway-technology-website) | Firmen-Website von Janeway Technology (janeway-technology.com) |
 | [kaatzsch-website](https://github.com/Janeway-Technology/kaatzsch-website) | Website Kaatzsch — Kundenprojekt von Janeway Technology |
+| [lpritzkow-website](https://github.com/Janeway-Technology/lpritzkow-website) | Personal branding website lpritzkow.de — Next.js 16, React 19, Tailwind v4, Docker |
 | [notar-bensch-website](https://github.com/Janeway-Technology/notar-bensch-website) | Website Notar Bensch — Next.js, Kundenprojekt von Janeway Technology |
 | [odd-fellows-website](https://github.com/Janeway-Technology/odd-fellows-website) | Website Odd Fellows — Kundenprojekt von Janeway Technology |
 | [pospiech-immobilien-website](https://github.com/Janeway-Technology/pospiech-immobilien-website) | Website Pospiech Immobilien — Kundenprojekt von Janeway Technology |
