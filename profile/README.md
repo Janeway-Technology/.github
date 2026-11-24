@@ -20,6 +20,13 @@
 Janeway Technology ist ein Softwareunternehmen aus Neuruppin. Wir bauen Software, bei der die Daten dort bleiben,
 wo sie hingehören: auf eigenen Servern in Deutschland, DSGVO-konform und ohne Abhängigkeit von US-Clouds.
 
+## Aktivität
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Janeway-Technology/.github/main/assets/heatmaps/org-dunkel.svg">
+  <img alt="Commits je Tag in den letzten 12 Monaten" src="https://raw.githubusercontent.com/Janeway-Technology/.github/main/assets/heatmaps/org-hell.svg" width="100%">
+</picture>
+
 ## Projekte
 
 | Projekt | Worum es geht |
