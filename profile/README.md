@@ -22,14 +22,14 @@ wo sie hingehören: auf eigenen Servern in Deutschland, DSGVO-konform und ohne A
 
 ## Projekte
 
-| | Projekt | Worum es geht |
-|---|---|---|
-| 🐧 | [**Janeway Linux**](https://github.com/Janeway-Technology/janeway-linux) | Desktop-Betriebssystem „Linux made in Germany“ (Jaynix): Installer, Desktop, Artwork, Dotfiles |
-| 🧩 | [**Janeway Suite**](https://github.com/Janeway-Technology/janeway-suite) | Selbst gehostete Produktivitäts-Suite mit KI-Assistentin Jane: Mail, Calendar, Drive, Notes, Automations … |
-| 📰 | [**Janeway CMS**](https://github.com/Janeway-Technology/janeway-cms) | Modulares, markenfähiges Headless-CMS mit Admin-Oberfläche |
-| 🛒 | [**Janeway Commerce**](https://github.com/Janeway-Technology/janeway-commerce) | Warenwirtschaft und Shop (WWS) |
-| 📅 | [**Buchungssystem**](https://github.com/Janeway-Technology/janeway-bookings) | Buchungsmodul für das CMS mit Channelmanager-Anbindung — *im Aufbau* |
-| 🌐 | [**Kundenprojekte**](https://github.com/Janeway-Technology/kundenprojekte) | Websites und Systeme, die wir für Kundinnen und Kunden bauen und betreiben |
+| Projekt | Worum es geht |
+|---|---|
+| [**Janeway Linux**](https://github.com/Janeway-Technology/janeway-linux) | Desktop-Betriebssystem „Linux made in Germany“ (Jaynix): Installer, Desktop, Artwork, Dotfiles |
+| [**Janeway Suite**](https://github.com/Janeway-Technology/janeway-suite) | Selbst gehostete Produktivitäts-Suite mit KI-Assistentin Jane: Mail, Calendar, Drive, Notes, Automations … |
+| [**Janeway CMS**](https://github.com/Janeway-Technology/janeway-cms) | Modulares, markenfähiges Headless-CMS mit Admin-Oberfläche |
+| [**Janeway Commerce**](https://github.com/Janeway-Technology/janeway-commerce) | Warenwirtschaft und Shop (WWS) |
+| [**Buchungssystem**](https://github.com/Janeway-Technology/janeway-bookings) | Buchungsmodul für das CMS mit Channelmanager-Anbindung — *im Aufbau* |
+| [**Kundenprojekte**](https://github.com/Janeway-Technology/kundenprojekte) | Websites und Systeme, die wir für Kundinnen und Kunden bauen und betreiben |
 
 ### Offen für alle
 
