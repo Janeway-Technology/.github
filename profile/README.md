@@ -121,9 +121,21 @@ Selbst gehostete Produktivitäts-Suite mit der KI-Assistentin Jane — jede App 
 
 </details>
 
+### Janeway Linux
+
+Desktop-Betriebssystem „Linux made in Germany“ (Jaynix) ([Sammelrepo](https://github.com/Janeway-Technology/janeway-linux)).
+
+| Repo | Worum es geht |
+|---|---|
+| [janeway-linux](https://github.com/Janeway-Technology/janeway-linux) | Sammelrepo Janeway Linux / Jaynix: Repo-Liste, jl, Bootstrap, Fremdquellen, Paketlisten |
+| [janeway-linux-artwork](https://github.com/Janeway-Technology/janeway-linux-artwork) | Icon- und Cursor-Sets, Hintergründe und Schriften der Jaynix-Designs (privat) |
+| [janeway-linux-desktop](https://github.com/Janeway-Technology/janeway-linux-desktop) | Jaynix Settings, Jaynix Shell, Sitzung, eigene Themes und Design-Vorlagen, Test-Shell |
+| [janeway-linux-dotfiles](https://github.com/Janeway-Technology/janeway-linux-dotfiles) | Konfiguration des Jaynix-Entwicklungsrechners und Notizen |
+| [janeway-linux-installer](https://github.com/Janeway-Technology/janeway-linux-installer) | Janeway Linux: Installer, Live-ISO, jaynix-Befehl, Boot-Branding |
+
 ### Eigenständige Produkte
 
-Laufen ohne die Suite: Betriebssystem, Hosting, CMS mit Buchungsmodul, Warenwirtschaft und Shop.
+Laufen ohne die Suite: Hosting, CMS mit Buchungsmodul, Warenwirtschaft und Shop.
 
 | Repo | Worum es geht |
 |---|---|
@@ -133,11 +145,6 @@ Laufen ohne die Suite: Betriebssystem, Hosting, CMS mit Buchungsmodul, Warenwirt
 | [janeway-commerce](https://github.com/Janeway-Technology/janeway-commerce) | Janeway Commerce: Warenwirtschaft und Shop (WWS) |
 | [janeway-hosting](https://github.com/Janeway-Technology/janeway-hosting) | Frontend der Managed-VPS-Plattform: Konfigurator, Server, SSH-Keys (L4) |
 | [janeway-hosting-engine](https://github.com/Janeway-Technology/janeway-hosting-engine) | Control-Plane der Managed-VPS-Plattform: Bestellungen, Server beim Provider, Reconciler |
-| [janeway-linux](https://github.com/Janeway-Technology/janeway-linux) | Sammelrepo Janeway Linux / Jaynix: Repo-Liste, jl, Bootstrap, Fremdquellen, Paketlisten |
-| [janeway-linux-artwork](https://github.com/Janeway-Technology/janeway-linux-artwork) | Icon- und Cursor-Sets, Hintergründe und Schriften der Jaynix-Designs (privat) |
-| [janeway-linux-desktop](https://github.com/Janeway-Technology/janeway-linux-desktop) | Jaynix Settings, Jaynix Shell, Sitzung, eigene Themes und Design-Vorlagen, Test-Shell |
-| [janeway-linux-dotfiles](https://github.com/Janeway-Technology/janeway-linux-dotfiles) | Konfiguration des Jaynix-Entwicklungsrechners und Notizen |
-| [janeway-linux-installer](https://github.com/Janeway-Technology/janeway-linux-installer) | Janeway Linux: Installer, Live-ISO, jaynix-Befehl, Boot-Branding |
 
 ## Sonstige
 
