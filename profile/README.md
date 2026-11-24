@@ -1,72 +1,45 @@
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Janeway-Technology/.github/main/assets/wortmarken/janeway-technology-dunkel.svg">
+    <img alt="Janeway Technology" src="https://raw.githubusercontent.com/Janeway-Technology/.github/main/assets/wortmarken/janeway-technology-hell.svg" width="520">
+  </picture>
+</p>
 
-# Janeway Technology
+<p align="center"><b>Software mit Fokus auf Datenhoheit und Datenschutz — entwickelt und betrieben in Deutschland.</b></p>
 
-**Das Linux der KI – Datenhoheit zurück in deine Hände.**
-
-[![Made in Germany](https://img.shields.io/badge/🇩🇪_Made_in_Germany-Neuruppin-black?style=flat-square)](https://janeway.io)
-[![Open Source](https://img.shields.io/badge/Open_Source-First-2ea44f?style=flat-square)](https://github.com/janeway-io)
-[![Self-Hosted](https://img.shields.io/badge/Self--Hosted-Ready-blue?style=flat-square)](https://janeway.io)
-
-[Website](https://janeway.io) · [Kontakt](mailto:hello@janeway.io)
-
-</div>
-
----
-
-### Das Problem
-
-Dein KI-Assistent wird bald dein bester Freund, Psychologe und Suchmaschine sein.  
-**Wer die Daten kontrolliert, kontrolliert das Narrativ.**
-
-Manipulation war noch nie so einfach – von Hollywood über Social Media bis zu personalisierten KI-Agenten.
-
-### Unsere Antwort
-
-Ein vollständiges KI- und Produktivitäts-Ökosystem, das **jeder einsehen und selbst hosten kann**.
+<p align="center">
+  <a href="https://janeway-technology.com">janeway-technology.com</a> ·
+  <a href="https://janeway.io">janeway.io</a> ·
+  <a href="mailto:contact@janeway.io">contact@janeway.io</a>
+</p>
 
 ---
 
-### 🛠 Was wir bauen
+## Überblick
 
-<table>
-<tr>
-<td align="center"><b>💬</b><br>AI Chat</td>
-<td align="center"><b>🤖</b><br>Agents</td>
-<td align="center"><b>⚡</b><br>Automations</td>
-<td align="center"><b>📇</b><br>Contacts</td>
-<td align="center"><b>📅</b><br>Calendar</td>
-<td align="center"><b>✅</b><br>Tasks</td>
-<td align="center"><b>📝</b><br>Notes</td>
-</tr>
-</table>
+Janeway Technology ist ein Softwareunternehmen aus Neuruppin. Wir bauen Software, bei der die Daten dort bleiben,
+wo sie hingehören: auf eigenen Servern in Deutschland, DSGVO-konform und ohne Abhängigkeit von US-Clouds.
 
-> *Ein komplettes Ökosystem – von Kontakten bis zu Voice-Agents. Alles integriert. Alles transparent.*
+## Projekte
 
----
+| | Projekt | Worum es geht |
+|---|---|---|
+| 🐧 | [**Janeway Linux**](https://github.com/Janeway-Technology/janeway-linux) | Desktop-Betriebssystem „Linux made in Germany“ (Jaynix): Installer, Desktop, Artwork, Dotfiles |
+| 🧩 | [**Janeway Suite**](https://github.com/Janeway-Technology/janeway-suite) | Selbst gehostete Produktivitäts-Suite mit KI-Assistentin Jane: Mail, Calendar, Drive, Notes, Automations … |
+| 📰 | [**Janeway CMS**](https://github.com/Janeway-Technology/janeway-cms) | Modulares, markenfähiges Headless-CMS mit Admin-Oberfläche |
+| 🛒 | [**Janeway Commerce**](https://github.com/Janeway-Technology/janeway-commerce) | Warenwirtschaft und Shop (WWS) |
+| 📅 | [**Buchungssystem**](https://github.com/Janeway-Technology/janeway-bookings) | Buchungsmodul für das CMS mit Channelmanager-Anbindung — *im Aufbau* |
+| 🌐 | [**Kundenprojekte**](https://github.com/Janeway-Technology/kundenprojekte) | Websites und Systeme, die wir für Kundinnen und Kunden bauen und betreiben |
 
-### 💡 Warum Janeway?
+### Offen für alle
 
-**🔒 Privacy by Design** – DSGVO-konform, E2E-verschlüsselt, 100% self-hostable  
-**🌱 Open Source First** – Transparenter Code, auditierbar, kein Vendor Lock-in  
-**🇩🇪 Made in Germany** – Entwickelt in Neuruppin, Brandenburg  
-**⚡ Automatisierung** – Wir automatisieren Erfolg, weil Zeit Leben ist
+| Projekt | Worum es geht |
+|---|---|
+| [handy-spiegel](https://github.com/Janeway-Technology/handy-spiegel) | Android-Handy auf PC oder Fernseher spiegeln — GTK4-Oberfläche für scrcpy |
+| [matrix-e2ee-bot](https://github.com/Janeway-Technology/matrix-e2ee-bot) | Selbst gehosteter Matrix-Bot mit Ende-zu-Ende-Verschlüsselung und REST-API |
 
----
-
-### 🎯 Unsere Vision
-
-> *„Digitalisierung bedeutet nicht weniger Menschlichkeit – sondern mehr Zeit dafür."*
-
-Wir wollen der neue Standard im App-Ökosystem werden.  
-**Offen. Transparent. Für alle.**
+<sub>Die meisten Repositories sind privat. Die Links öffnen sich nur für Mitglieder der Organisation.</sub>
 
 ---
 
-<div align="center">
-
-**Interessiert?** Schau vorbei auf **[janeway.io](https://janeway.io)**
-
-<sub>Sichere KI-Plattformen & Prozessautomatisierung aus Brandenburg 🇩🇪</sub>
-
-</div>
+<p align="center"><sub>Janeway Technology · Neuruppin, Brandenburg</sub></p>
