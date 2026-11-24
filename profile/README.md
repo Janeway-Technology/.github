@@ -34,17 +34,19 @@ wo sie hingehören: auf eigenen Servern in Deutschland, DSGVO-konform und ohne A
 
 Selbst gehostete Produktivitäts-Suite mit der KI-Assistentin Jane. Jede App und jeder Dienst hat ein eigenes Repo, die Übersicht liegt in der [Wurzel](https://github.com/Janeway-Technology/janeway-suite). 80 Repos.
 
-<details><summary><b>Apps</b> (29)</summary>
+<details><summary><b>Apps</b> (34)</summary>
 
 | Repo | Worum es geht | Adresse |
 |---|---|---|
 | [janeway-admin](https://github.com/Janeway-Technology/janeway-admin) | Admin-Konsole der Janeway Suite | [admin.janeway.io](https://admin.janeway.io/) |
 | [janeway-affiliate](https://github.com/Janeway-Technology/janeway-affiliate) | Affiliate-Portal (Self-Service) über alle aktiven Partner-Apps | [affiliate.janeway.io](https://affiliate.janeway.io/) |
 | [janeway-ai-chat](https://github.com/Janeway-Technology/janeway-ai-chat) | Multi-Provider-KI-Chat über ai-core mit Credits und Plattform-Billing | [chat.janeway.io](https://chat.janeway.io/) |
+| [janeway-ai-studio](https://github.com/Janeway-Technology/janeway-ai-studio) | AI Studio: Projekte, Präsentationen, Playground für Bild-, Video- und Audio-Modelle |  |
 | [janeway-api-docs](https://github.com/Janeway-Technology/janeway-api-docs) | Öffentliche Doku der Janeway-API aus dem aggregierten OpenAPI-Spec | [docs.janeway.io](https://docs.janeway.io/) |
 | [janeway-apps](https://github.com/Janeway-Technology/janeway-apps) | Laufzeit von Janeway Blocks: rendert veröffentlichte Baukasten-Apps | [apps.janewaylabs.com](https://apps.janewaylabs.com/) |
 | [janeway-auth](https://github.com/Janeway-Technology/janeway-auth) | Zentrales Auth-System: Login, MFA, Onboarding, Enterprise-SSO-Broker | [auth.janeway.io](https://auth.janeway.io/) |
 | [janeway-automations](https://github.com/Janeway-Technology/janeway-automations) | Agenten- und Workflow-Dashboard: Agents, Workflows, Tools, Wissensbasis, Billing | [automations.janeway.io](https://automations.janeway.io/) |
+| [janeway-brain](https://github.com/Janeway-Technology/janeway-brain) | Wissensspeicher der Suite: ein Markdown-Vault je Arbeitsbereich, mit Suche und LLM-Wiki | [brain.janewaylabs.com](https://brain.janewaylabs.com/) |
 | [janeway-calendar](https://github.com/Janeway-Technology/janeway-calendar) | Calendar: Kalender mit Monats-, Wochen-, Tages-, Agenda- und Jahresansicht plus Buchungslinks | [calendar.janeway.io](https://calendar.janeway.io/) |
 | [janeway-cashflow](https://github.com/Janeway-Technology/janeway-cashflow) | Cashflow: Belege erfassen, Vertraege gegenueberstellen, Ein- und Ausgaben auswerten (Alpha, nur Labs) | [cashflow.janeway.io](https://cashflow.janeway.io/) |
 | [janeway-community](https://github.com/Janeway-Technology/janeway-community) | Community: Tauschbörse für Bausteine wie Skills, Agenten und Workflows | [community.janewaylabs.com](https://community.janewaylabs.com/) |
@@ -58,7 +60,10 @@ Selbst gehostete Produktivitäts-Suite mit der KI-Assistentin Jane. Jede App und
 | [janeway-legal](https://github.com/Janeway-Technology/janeway-legal) | Rechtstexte der Janeway Suite (DSB-Paket, intern) | [legal.janeway.io](https://legal.janeway.io/) |
 | [janeway-mail-client](https://github.com/Janeway-Technology/janeway-mail-client) | Mail: IMAP/SMTP-Mailclient mit Konten, Filtern, Abwesenheit, Suche | [mail.janeway.io](https://mail.janeway.io/) |
 | [janeway-maps](https://github.com/Janeway-Technology/janeway-maps) | Maps (Prototyp): Karten, Orte, Suche auf OpenStreetMap, ohne Tracking | [maps.janewaylabs.com](https://maps.janewaylabs.com/) |
+| [janeway-meet](https://github.com/Janeway-Technology/janeway-meet) | Meet: Video-Konferenzen auf LiveKit mit Gast-Links | [meet.janeway.io](https://meet.janeway.io/) |
+| [janeway-messenger](https://github.com/Janeway-Technology/janeway-messenger) | Messenger: Matrix-Client mit WhatsApp- und Telegram-Brücken | [messenger.janeway.io](https://messenger.janeway.io/) |
 | [janeway-notes](https://github.com/Janeway-Technology/janeway-notes) | Notes: Markdown-Notizen mit Wiki-Links, Graph und Canvas | [notes.janeway.io](https://notes.janeway.io/) |
+| [janeway-pass](https://github.com/Janeway-Technology/janeway-pass) | Pass: Passwortmanager der Janeway Suite | [pass.janeway.io](https://pass.janeway.io/) |
 | [janeway-search](https://github.com/Janeway-Technology/janeway-search) | Search: eigene Websuche auf SearXNG, optional mit KI-Antwort und Zitaten | [search.janewaylabs.com](https://search.janewaylabs.com/) |
 | [janeway-status](https://github.com/Janeway-Technology/janeway-status) | Öffentliche Status-Seite: Health aller Dienste der Suite |  |
 | [janeway-sync](https://github.com/Janeway-Technology/janeway-sync) | Sync von Kalender, Kontakten und Aufgaben mit Microsoft Graph und Google |  |
@@ -70,11 +75,12 @@ Selbst gehostete Produktivitäts-Suite mit der KI-Assistentin Jane. Jede App und
 
 </details>
 
-<details><summary><b>Engines</b> (3)</summary>
+<details><summary><b>Engines</b> (4)</summary>
 
 | Repo | Worum es geht | Adresse |
 |---|---|---|
 | [janeway-agent-engine](https://github.com/Janeway-Technology/janeway-agent-engine) | Self-hosted LiveKit Voice Agent Platform with SIP Trunk support |  |
+| [janeway-agent-relay](https://github.com/Janeway-Technology/janeway-agent-relay) | Matrix-Text-Gegenstück zur agent-engine: reicht Nachrichten (auch WhatsApp/Telegram) an einen Agenten |  |
 | [janeway-browser](https://github.com/Janeway-Technology/janeway-browser) | Chromium für Agenten hinter HTTP mit Live-Ansicht per noVNC |  |
 | [janeway-workflow-engine](https://github.com/Janeway-Technology/janeway-workflow-engine) | Graph-Orchestrierung: DAG, Trigger (Cron/HTTP/Event/Voice), Retry |  |
 
@@ -120,6 +126,19 @@ Selbst gehostete Produktivitäts-Suite mit der KI-Assistentin Jane. Jede App und
 
 </details>
 
+<details><summary><b>Clients</b> (6)</summary>
+
+| Repo | Worum es geht | Adresse |
+|---|---|---|
+| [janeway-chrome-extension](https://github.com/Janeway-Technology/janeway-chrome-extension) | Jane in Chrome: Erweiterung für Chrome und Edge |  |
+| [janeway-cli](https://github.com/Janeway-Technology/janeway-cli) | janeway, die CLI der Janeway Suite (MCP-Client) |  |
+| [janeway-desktop](https://github.com/Janeway-Technology/janeway-desktop) | Begleiter für Linux (Prototyp): Jane sieht auf Aufforderung den Bildschirm |  |
+| [janeway-device](https://github.com/Janeway-Technology/janeway-device) | Jane auf Geräten (Linux, Android und mehr), ein Rust-Workspace für alle Plattformen |  |
+| [janeway-native](https://github.com/Janeway-Technology/janeway-native) | Kotlin-WebView-Hülle, aus der je Suite-App eine Android-APK entsteht |  |
+| [janeway-pass-extension](https://github.com/Janeway-Technology/janeway-pass-extension) | Pass im Browser: Passwort-Manager-Erweiterung für Chrome und Edge (Manifest V3) |  |
+
+</details>
+
 <details><summary><b>Editoren</b> (10)</summary>
 
 | Repo | Worum es geht | Adresse |
@@ -137,27 +156,15 @@ Selbst gehostete Produktivitäts-Suite mit der KI-Assistentin Jane. Jede App und
 
 </details>
 
-<details><summary><b>Werkzeuge und Weiteres</b> (19)</summary>
+<details><summary><b>Werkzeuge und Weiteres</b> (7)</summary>
 
 | Repo | Worum es geht | Adresse |
 |---|---|---|
 | [janeway-aegis](https://github.com/Janeway-Technology/janeway-aegis) | Janeway Aegis: Security-Monitor für nexus und die Janeway Suite |  |
-| [janeway-agent-relay](https://github.com/Janeway-Technology/janeway-agent-relay) | Matrix-Text-Gegenstück zur agent-engine: reicht Nachrichten (auch WhatsApp/Telegram) an einen Agenten |  |
-| [janeway-ai-studio](https://github.com/Janeway-Technology/janeway-ai-studio) | AI Studio: Projekte, Präsentationen, Playground für Bild-, Video- und Audio-Modelle |  |
-| [janeway-brain](https://github.com/Janeway-Technology/janeway-brain) | Wissensspeicher der Suite: ein Markdown-Vault je Arbeitsbereich, mit Suche und LLM-Wiki | [brain.janewaylabs.com](https://brain.janewaylabs.com/) |
-| [janeway-chrome-extension](https://github.com/Janeway-Technology/janeway-chrome-extension) | Jane in Chrome: Erweiterung für Chrome und Edge |  |
-| [janeway-cli](https://github.com/Janeway-Technology/janeway-cli) | janeway, die CLI der Janeway Suite (MCP-Client) |  |
 | [janeway-control](https://github.com/Janeway-Technology/janeway-control) | jctl, das Admin-Werkzeug der Janeway Suite |  |
 | [janeway-craft-kit](https://github.com/Janeway-Technology/janeway-craft-kit) | Gemeinsame Quelle für die Janeway-Craft-Apps (Editor-Forks): Marke, Theme, Hülle |  |
-| [janeway-desktop](https://github.com/Janeway-Technology/janeway-desktop) | Begleiter für Linux (Prototyp): Jane sieht auf Aufforderung den Bildschirm |  |
 | [janeway-dev](https://github.com/Janeway-Technology/janeway-dev) | Login-geschütztes Gateway der Entwicklungsumgebung dev.janeway.io |  |
-| [janeway-device](https://github.com/Janeway-Technology/janeway-device) | Jane auf Geräten (Linux, Android und mehr), ein Rust-Workspace für alle Plattformen |  |
 | [janeway-devops](https://github.com/Janeway-Technology/janeway-devops) | Interne Dev-/Ops-Plattform der Janeway Suite | [devops.janewaylabs.com](https://devops.janewaylabs.com/) |
-| [janeway-meet](https://github.com/Janeway-Technology/janeway-meet) | Meet: Video-Konferenzen auf LiveKit mit Gast-Links | [meet.janeway.io](https://meet.janeway.io/) |
-| [janeway-messenger](https://github.com/Janeway-Technology/janeway-messenger) | Messenger: Matrix-Client mit WhatsApp- und Telegram-Brücken | [messenger.janeway.io](https://messenger.janeway.io/) |
-| [janeway-native](https://github.com/Janeway-Technology/janeway-native) | Kotlin-WebView-Hülle, aus der je Suite-App eine Android-APK entsteht |  |
-| [janeway-pass](https://github.com/Janeway-Technology/janeway-pass) | Pass: Passwortmanager der Janeway Suite | [pass.janeway.io](https://pass.janeway.io/) |
-| [janeway-pass-extension](https://github.com/Janeway-Technology/janeway-pass-extension) | Pass im Browser: Passwort-Manager-Erweiterung für Chrome und Edge (Manifest V3) |  |
 | [janeway-protocol](https://github.com/Janeway-Technology/janeway-protocol) | jw-device/1: Geräteprotokoll, Fähigkeitskatalog, Konformitätsszenarien (kein Laufzeitcode) |  |
 | [janeway-suite](https://github.com/Janeway-Technology/janeway-suite) | Wurzel der Janeway Suite: Doku, Dev-Werkzeug, Graphify-Karten (Apps in eigenen Repos) | [janeway.io](https://janeway.io/) |
 
