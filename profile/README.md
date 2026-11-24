@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-<p align="center"><b>Software mit Fokus auf Datenhoheit und Datenschutz — entwickelt und betrieben in Deutschland.</b></p>
+<p align="center"><b>Software mit Fokus auf Datenhoheit und Datenschutz, entwickelt und betrieben in Deutschland.</b></p>
 
 <p align="center">
   <a href="https://janeway-technology.com">janeway-technology.com</a> ·
