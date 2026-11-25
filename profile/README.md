@@ -77,12 +77,12 @@ Selbst gehostete Produktivitäts-Suite mit der KI-Assistentin Jane. Jede App und
 
 <details><summary><b>Engines</b> (4)</summary>
 
-| Repo | Worum es geht |
-|---|---|
-| [janeway-agent-engine](https://github.com/Janeway-Technology/janeway-agent-engine) | Self-hosted LiveKit Voice Agent Platform with SIP Trunk support |
-| [janeway-agent-relay](https://github.com/Janeway-Technology/janeway-agent-relay) | Matrix-Text-Gegenstück zur agent-engine: reicht Nachrichten (auch WhatsApp/Telegram) an einen Agenten |
-| [janeway-browser](https://github.com/Janeway-Technology/janeway-browser) | Chromium für Agenten hinter HTTP mit Live-Ansicht per noVNC |
-| [janeway-workflow-engine](https://github.com/Janeway-Technology/janeway-workflow-engine) | Graph-Orchestrierung: DAG, Trigger (Cron/HTTP/Event/Voice), Retry |
+| Repo | Worum es geht | Adresse |
+|---|---|---|
+| [janeway-agent-engine](https://github.com/Janeway-Technology/janeway-agent-engine) | Self-hosted LiveKit Voice Agent Platform with SIP Trunk support |  |
+| [janeway-agent-relay](https://github.com/Janeway-Technology/janeway-agent-relay) | Matrix-Text-Gegenstück zur agent-engine: reicht Nachrichten (auch WhatsApp/Telegram) an einen Agenten |  |
+| [janeway-browser](https://github.com/Janeway-Technology/janeway-browser) | Chromium für Agenten hinter HTTP mit Live-Ansicht per noVNC |  |
+| [janeway-workflow-engine](https://github.com/Janeway-Technology/janeway-workflow-engine) | Graph-Orchestrierung: DAG, Trigger (Cron/HTTP/Event/Voice), Retry |  |
 
 </details>
 
@@ -112,30 +112,30 @@ Selbst gehostete Produktivitäts-Suite mit der KI-Assistentin Jane. Jede App und
 
 <details><summary><b>Fundament</b> (1)</summary>
 
-| Repo | Worum es geht |
-|---|---|
-| [janeway-infra](https://github.com/Janeway-Technology/janeway-infra) | Self-hosted Supabase-Stack mit allen Migrationen und RLS-Policies |
+| Repo | Worum es geht | Adresse |
+|---|---|---|
+| [janeway-infra](https://github.com/Janeway-Technology/janeway-infra) | Self-hosted Supabase-Stack mit allen Migrationen und RLS-Policies |  |
 
 </details>
 
 <details><summary><b>Oberfläche</b> (1)</summary>
 
-| Repo | Worum es geht |
-|---|---|
-| [janeway-gui-elements](https://github.com/Janeway-Technology/janeway-gui-elements) | Geteilte UI-Bibliothek und App-Framework aller Janeway-Apps, mit Showroom |
+| Repo | Worum es geht | Adresse |
+|---|---|---|
+| [janeway-gui-elements](https://github.com/Janeway-Technology/janeway-gui-elements) | Geteilte UI-Bibliothek und App-Framework aller Janeway-Apps, mit Showroom |  |
 
 </details>
 
 <details><summary><b>Clients</b> (6)</summary>
 
-| Repo | Worum es geht |
-|---|---|
-| [janeway-chrome-extension](https://github.com/Janeway-Technology/janeway-chrome-extension) | Jane in Chrome: Erweiterung für Chrome und Edge |
-| [janeway-cli](https://github.com/Janeway-Technology/janeway-cli) | janeway, die CLI der Janeway Suite (MCP-Client) |
-| [janeway-desktop](https://github.com/Janeway-Technology/janeway-desktop) | Begleiter für Linux (Prototyp): Jane sieht auf Aufforderung den Bildschirm |
-| [janeway-device](https://github.com/Janeway-Technology/janeway-device) | Jane auf Geräten (Linux, Android und mehr), ein Rust-Workspace für alle Plattformen |
-| [janeway-native](https://github.com/Janeway-Technology/janeway-native) | Kotlin-WebView-Hülle, aus der je Suite-App eine Android-APK entsteht |
-| [janeway-pass-extension](https://github.com/Janeway-Technology/janeway-pass-extension) | Pass im Browser: Passwort-Manager-Erweiterung für Chrome und Edge (Manifest V3) |
+| Repo | Worum es geht | Adresse |
+|---|---|---|
+| [janeway-chrome-extension](https://github.com/Janeway-Technology/janeway-chrome-extension) | Jane in Chrome: Erweiterung für Chrome und Edge |  |
+| [janeway-cli](https://github.com/Janeway-Technology/janeway-cli) | janeway, die CLI der Janeway Suite (MCP-Client) |  |
+| [janeway-desktop](https://github.com/Janeway-Technology/janeway-desktop) | Begleiter für Linux (Prototyp): Jane sieht auf Aufforderung den Bildschirm |  |
+| [janeway-device](https://github.com/Janeway-Technology/janeway-device) | Jane auf Geräten (Linux, Android und mehr), ein Rust-Workspace für alle Plattformen |  |
+| [janeway-native](https://github.com/Janeway-Technology/janeway-native) | Kotlin-WebView-Hülle, aus der je Suite-App eine Android-APK entsteht |  |
+| [janeway-pass-extension](https://github.com/Janeway-Technology/janeway-pass-extension) | Pass im Browser: Passwort-Manager-Erweiterung für Chrome und Edge (Manifest V3) |  |
 
 </details>
 
@@ -174,13 +174,13 @@ Selbst gehostete Produktivitäts-Suite mit der KI-Assistentin Jane. Jede App und
 
 Desktop-Betriebssystem „Linux made in Germany“ (Jaynix), Übersicht im [Sammelrepo](https://github.com/Janeway-Technology/janeway-linux).
 
-| Repo | Worum es geht |
-|---|---|
-| [janeway-linux](https://github.com/Janeway-Technology/janeway-linux) | Sammelrepo Janeway Linux / Jaynix: Repo-Liste, jl, Bootstrap, Fremdquellen, Paketlisten |
-| [janeway-linux-artwork](https://github.com/Janeway-Technology/janeway-linux-artwork) | Icon- und Cursor-Sets, Hintergründe und Schriften der Jaynix-Designs (privat) |
-| [janeway-linux-desktop](https://github.com/Janeway-Technology/janeway-linux-desktop) | Jaynix Settings, Jaynix Shell, Sitzung, eigene Themes und Design-Vorlagen, Test-Shell |
-| [janeway-linux-dotfiles](https://github.com/Janeway-Technology/janeway-linux-dotfiles) | Konfiguration des Jaynix-Entwicklungsrechners und Notizen |
-| [janeway-linux-installer](https://github.com/Janeway-Technology/janeway-linux-installer) | Janeway Linux: Installer, Live-ISO, jaynix-Befehl, Boot-Branding |
+| Repo | Worum es geht | Adresse |
+|---|---|---|
+| [janeway-linux](https://github.com/Janeway-Technology/janeway-linux) | Sammelrepo Janeway Linux / Jaynix: Repo-Liste, jl, Bootstrap, Fremdquellen, Paketlisten |  |
+| [janeway-linux-artwork](https://github.com/Janeway-Technology/janeway-linux-artwork) | Icon- und Cursor-Sets, Hintergründe und Schriften der Jaynix-Designs (privat) |  |
+| [janeway-linux-desktop](https://github.com/Janeway-Technology/janeway-linux-desktop) | Jaynix Settings, Jaynix Shell, Sitzung, eigene Themes und Design-Vorlagen, Test-Shell |  |
+| [janeway-linux-dotfiles](https://github.com/Janeway-Technology/janeway-linux-dotfiles) | Konfiguration des Jaynix-Entwicklungsrechners und Notizen |  |
+| [janeway-linux-installer](https://github.com/Janeway-Technology/janeway-linux-installer) | Janeway Linux: Installer, Live-ISO, jaynix-Befehl, Boot-Branding |  |
 
 ### Eigenständige Produkte
 
@@ -235,12 +235,12 @@ Unsere eigenen Websites und die Kundenseiten, nach Kunden geordnet im Sammelrepo
 
 ## Sonstige
 
-| Repo | Worum es geht |
-|---|---|
-| [handy-spiegel](https://github.com/Janeway-Technology/handy-spiegel) | Android-Handy auf PC oder Fernseher spiegeln, mit wenig Verzögerung, Controller und ohne Kabel (GTK4-Oberfläche für scrcpy) *(öffentlich)* |
-| [janeway-dictate](https://github.com/Janeway-Technology/janeway-dictate) | Push-to-Talk Speech-to-Text for GNOME/Linux using faster-whisper *(archiviert, öffentlich)* |
-| [matrix-e2ee-bot](https://github.com/Janeway-Technology/matrix-e2ee-bot) | Self-hosted Matrix bot microservice with E2EE and REST API *(öffentlich)* |
-| [telegram-signal-analyse](https://github.com/Janeway-Technology/telegram-signal-analyse) | Telegram-Signalanalyse: liest Signalgruppen, erkennt Handelssignale und prüft sie |
+| Repo | Worum es geht | Adresse |
+|---|---|---|
+| [handy-spiegel](https://github.com/Janeway-Technology/handy-spiegel) | Android-Handy auf PC oder Fernseher spiegeln, mit wenig Verzögerung, Controller und ohne Kabel (GTK4-Oberfläche für scrcpy) *(öffentlich)* |  |
+| [janeway-dictate](https://github.com/Janeway-Technology/janeway-dictate) | Push-to-Talk Speech-to-Text for GNOME/Linux using faster-whisper *(archiviert, öffentlich)* |  |
+| [matrix-e2ee-bot](https://github.com/Janeway-Technology/matrix-e2ee-bot) | Self-hosted Matrix bot microservice with E2EE and REST API *(öffentlich)* |  |
+| [telegram-signal-analyse](https://github.com/Janeway-Technology/telegram-signal-analyse) | Telegram-Signalanalyse: liest Signalgruppen, erkennt Handelssignale und prüft sie |  |
 <!-- org-listen:ende -->
 
 ---
