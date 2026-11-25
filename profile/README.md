@@ -30,11 +30,11 @@ wo sie hingehören: auf eigenen Servern in Deutschland, DSGVO-konform und ohne A
 <!-- org-listen:anfang (erzeugt: janeway-suite/dev/org-profil.py) -->
 ## Janeway Linux
 
-Desktop-Betriebssystem „Linux made in Germany“ (Jaynix), Übersicht im [Sammelrepo](https://github.com/Janeway-Technology/janeway-linux).
+Linux made in Germany (Jaynix) in drei Varianten: Desktop, Server und Benutzerdefiniert, ein geführter Installer weit über archinstall hinaus. NAS und spezielle Serverversionen folgen. Übersicht im [Sammelrepo](https://github.com/Janeway-Technology/janeway-linux).
 
 | Repo | Worum es geht |
 |---|---|
-| [janeway-linux](https://github.com/Janeway-Technology/janeway-linux) | Sammelrepo Janeway Linux / Jaynix: Repo-Liste, jl, Bootstrap, Fremdquellen, Paketlisten |
+| [janeway-linux](https://github.com/Janeway-Technology/janeway-linux) | Sammelrepo Janeway Linux (Jaynix): Linux made in Germany als Desktop, Server und Benutzerdefiniert |
 | [janeway-linux-artwork](https://github.com/Janeway-Technology/janeway-linux-artwork) | Icon- und Cursor-Sets, Hintergründe und Schriften der Jaynix-Designs (privat) |
 | [janeway-linux-desktop](https://github.com/Janeway-Technology/janeway-linux-desktop) | Jaynix Settings, Jaynix Shell, Sitzung, eigene Themes und Design-Vorlagen, Test-Shell |
 | [janeway-linux-dotfiles](https://github.com/Janeway-Technology/janeway-linux-dotfiles) | Konfiguration des Jaynix-Entwicklungsrechners und Notizen |
@@ -190,7 +190,7 @@ Laufen ohne die Suite: Hosting, CMS mit Buchungsmodul, Warenwirtschaft und Shop,
 | [janeway-bookings](https://github.com/Janeway-Technology/janeway-bookings) | Channelmanager-Buchungsmodul für @janeway/cms (v1: Webplanner) |  |
 | [janeway-cms](https://github.com/Janeway-Technology/janeway-cms) | Janeway CMS: modulare, markenfähige CMS-Engine mit eigener Admin-Oberfläche, ein Docker-Image, je Marke eine Konfiguration | [cms.janeway.io](https://cms.janeway.io/) |
 | [janeway-commerce](https://github.com/Janeway-Technology/janeway-commerce) | Janeway Commerce: Warenwirtschaft und Shop (WWS) |  |
-| [janeway-dictate](https://github.com/Janeway-Technology/janeway-dictate) | Janeway Dictate: Push-to-Talk-Spracherkennung für GNOME und Linux mit faster-whisper *(archiviert, öffentlich)* |  |
+| [janeway-dictate](https://github.com/Janeway-Technology/janeway-dictate) | Janeway Dictate: Push-to-Talk-Spracherkennung für GNOME und Linux mit faster-whisper *(öffentlich)* |  |
 | [janeway-hosting](https://github.com/Janeway-Technology/janeway-hosting) | Frontend der Managed-VPS-Plattform: Konfigurator, Server, SSH-Keys | [hosting.janewaylabs.com](https://hosting.janewaylabs.com/) |
 | [janeway-hosting-engine](https://github.com/Janeway-Technology/janeway-hosting-engine) | Control-Plane der Managed-VPS-Plattform: Bestellungen, Server beim Provider, Reconciler |  |
 
