@@ -28,9 +28,19 @@ wo sie hingehören: auf eigenen Servern in Deutschland, DSGVO-konform und ohne A
 </picture>
 
 <!-- org-listen:anfang (erzeugt: janeway-suite/dev/org-profil.py) -->
-## Janeway Projekte
+## Janeway Linux
 
-### Janeway Suite
+Desktop-Betriebssystem „Linux made in Germany“ (Jaynix), Übersicht im [Sammelrepo](https://github.com/Janeway-Technology/janeway-linux).
+
+| Repo | Worum es geht |
+|---|---|
+| [janeway-linux](https://github.com/Janeway-Technology/janeway-linux) | Sammelrepo Janeway Linux / Jaynix: Repo-Liste, jl, Bootstrap, Fremdquellen, Paketlisten |
+| [janeway-linux-artwork](https://github.com/Janeway-Technology/janeway-linux-artwork) | Icon- und Cursor-Sets, Hintergründe und Schriften der Jaynix-Designs (privat) |
+| [janeway-linux-desktop](https://github.com/Janeway-Technology/janeway-linux-desktop) | Jaynix Settings, Jaynix Shell, Sitzung, eigene Themes und Design-Vorlagen, Test-Shell |
+| [janeway-linux-dotfiles](https://github.com/Janeway-Technology/janeway-linux-dotfiles) | Konfiguration des Jaynix-Entwicklungsrechners und Notizen |
+| [janeway-linux-installer](https://github.com/Janeway-Technology/janeway-linux-installer) | Janeway Linux: Installer, Live-ISO, jaynix-Befehl, Boot-Branding |
+
+## Janeway Suite
 
 Selbst gehostete Produktivitäts-Suite mit der KI-Assistentin Jane. Jede App und jeder Dienst hat ein eigenes Repo, die Übersicht liegt in der [Wurzel](https://github.com/Janeway-Technology/janeway-suite). 80 Repos.
 
@@ -77,12 +87,12 @@ Selbst gehostete Produktivitäts-Suite mit der KI-Assistentin Jane. Jede App und
 
 <details><summary><b>Engines</b> (4)</summary>
 
-| Repo | Worum es geht | Adresse |
-|---|---|---|
-| [janeway-agent-engine](https://github.com/Janeway-Technology/janeway-agent-engine) | Self-hosted LiveKit Voice Agent Platform with SIP Trunk support |  |
-| [janeway-agent-relay](https://github.com/Janeway-Technology/janeway-agent-relay) | Matrix-Text-Gegenstück zur agent-engine: reicht Nachrichten (auch WhatsApp/Telegram) an einen Agenten |  |
-| [janeway-browser](https://github.com/Janeway-Technology/janeway-browser) | Chromium für Agenten hinter HTTP mit Live-Ansicht per noVNC |  |
-| [janeway-workflow-engine](https://github.com/Janeway-Technology/janeway-workflow-engine) | Graph-Orchestrierung: DAG, Trigger (Cron/HTTP/Event/Voice), Retry |  |
+| Repo | Worum es geht |
+|---|---|
+| [janeway-agent-engine](https://github.com/Janeway-Technology/janeway-agent-engine) | Self-hosted LiveKit Voice Agent Platform with SIP Trunk support |
+| [janeway-agent-relay](https://github.com/Janeway-Technology/janeway-agent-relay) | Matrix-Text-Gegenstück zur agent-engine: reicht Nachrichten (auch WhatsApp/Telegram) an einen Agenten |
+| [janeway-browser](https://github.com/Janeway-Technology/janeway-browser) | Chromium für Agenten hinter HTTP mit Live-Ansicht per noVNC |
+| [janeway-workflow-engine](https://github.com/Janeway-Technology/janeway-workflow-engine) | Graph-Orchestrierung: DAG, Trigger (Cron/HTTP/Event/Voice), Retry |
 
 </details>
 
@@ -112,30 +122,30 @@ Selbst gehostete Produktivitäts-Suite mit der KI-Assistentin Jane. Jede App und
 
 <details><summary><b>Fundament</b> (1)</summary>
 
-| Repo | Worum es geht | Adresse |
-|---|---|---|
-| [janeway-infra](https://github.com/Janeway-Technology/janeway-infra) | Self-hosted Supabase-Stack mit allen Migrationen und RLS-Policies |  |
+| Repo | Worum es geht |
+|---|---|
+| [janeway-infra](https://github.com/Janeway-Technology/janeway-infra) | Self-hosted Supabase-Stack mit allen Migrationen und RLS-Policies |
 
 </details>
 
 <details><summary><b>Oberfläche</b> (1)</summary>
 
-| Repo | Worum es geht | Adresse |
-|---|---|---|
-| [janeway-gui-elements](https://github.com/Janeway-Technology/janeway-gui-elements) | Geteilte UI-Bibliothek und App-Framework aller Janeway-Apps, mit Showroom |  |
+| Repo | Worum es geht |
+|---|---|
+| [janeway-gui-elements](https://github.com/Janeway-Technology/janeway-gui-elements) | Geteilte UI-Bibliothek und App-Framework aller Janeway-Apps, mit Showroom |
 
 </details>
 
 <details><summary><b>Clients</b> (6)</summary>
 
-| Repo | Worum es geht | Adresse |
-|---|---|---|
-| [janeway-chrome-extension](https://github.com/Janeway-Technology/janeway-chrome-extension) | Jane in Chrome: Erweiterung für Chrome und Edge |  |
-| [janeway-cli](https://github.com/Janeway-Technology/janeway-cli) | janeway, die CLI der Janeway Suite (MCP-Client) |  |
-| [janeway-desktop](https://github.com/Janeway-Technology/janeway-desktop) | Begleiter für Linux (Prototyp): Jane sieht auf Aufforderung den Bildschirm |  |
-| [janeway-device](https://github.com/Janeway-Technology/janeway-device) | Jane auf Geräten (Linux, Android und mehr), ein Rust-Workspace für alle Plattformen |  |
-| [janeway-native](https://github.com/Janeway-Technology/janeway-native) | Kotlin-WebView-Hülle, aus der je Suite-App eine Android-APK entsteht |  |
-| [janeway-pass-extension](https://github.com/Janeway-Technology/janeway-pass-extension) | Pass im Browser: Passwort-Manager-Erweiterung für Chrome und Edge (Manifest V3) |  |
+| Repo | Worum es geht |
+|---|---|
+| [janeway-chrome-extension](https://github.com/Janeway-Technology/janeway-chrome-extension) | Jane in Chrome: Erweiterung für Chrome und Edge |
+| [janeway-cli](https://github.com/Janeway-Technology/janeway-cli) | janeway, die CLI der Janeway Suite (MCP-Client) |
+| [janeway-desktop](https://github.com/Janeway-Technology/janeway-desktop) | Begleiter für Linux (Prototyp): Jane sieht auf Aufforderung den Bildschirm |
+| [janeway-device](https://github.com/Janeway-Technology/janeway-device) | Jane auf Geräten (Linux, Android und mehr), ein Rust-Workspace für alle Plattformen |
+| [janeway-native](https://github.com/Janeway-Technology/janeway-native) | Kotlin-WebView-Hülle, aus der je Suite-App eine Android-APK entsteht |
+| [janeway-pass-extension](https://github.com/Janeway-Technology/janeway-pass-extension) | Pass im Browser: Passwort-Manager-Erweiterung für Chrome und Edge (Manifest V3) |
 
 </details>
 
@@ -170,21 +180,9 @@ Selbst gehostete Produktivitäts-Suite mit der KI-Assistentin Jane. Jede App und
 
 </details>
 
-### Janeway Linux
+## Weitere Janeway Projekte
 
-Desktop-Betriebssystem „Linux made in Germany“ (Jaynix), Übersicht im [Sammelrepo](https://github.com/Janeway-Technology/janeway-linux).
-
-| Repo | Worum es geht | Adresse |
-|---|---|---|
-| [janeway-linux](https://github.com/Janeway-Technology/janeway-linux) | Sammelrepo Janeway Linux / Jaynix: Repo-Liste, jl, Bootstrap, Fremdquellen, Paketlisten |  |
-| [janeway-linux-artwork](https://github.com/Janeway-Technology/janeway-linux-artwork) | Icon- und Cursor-Sets, Hintergründe und Schriften der Jaynix-Designs (privat) |  |
-| [janeway-linux-desktop](https://github.com/Janeway-Technology/janeway-linux-desktop) | Jaynix Settings, Jaynix Shell, Sitzung, eigene Themes und Design-Vorlagen, Test-Shell |  |
-| [janeway-linux-dotfiles](https://github.com/Janeway-Technology/janeway-linux-dotfiles) | Konfiguration des Jaynix-Entwicklungsrechners und Notizen |  |
-| [janeway-linux-installer](https://github.com/Janeway-Technology/janeway-linux-installer) | Janeway Linux: Installer, Live-ISO, jaynix-Befehl, Boot-Branding |  |
-
-### Eigenständige Produkte
-
-Laufen ohne die Suite: Hosting, CMS mit Buchungsmodul, Warenwirtschaft und Shop.
+Laufen ohne die Suite: Hosting, CMS mit Buchungsmodul, Warenwirtschaft und Shop, Diktat.
 
 | Repo | Worum es geht | Adresse |
 |---|---|---|
@@ -192,12 +190,13 @@ Laufen ohne die Suite: Hosting, CMS mit Buchungsmodul, Warenwirtschaft und Shop.
 | [janeway-bookings](https://github.com/Janeway-Technology/janeway-bookings) | Channelmanager-Buchungsmodul für @janeway/cms (v1: Webplanner) |  |
 | [janeway-cms](https://github.com/Janeway-Technology/janeway-cms) | Janeway CMS: modulare, markenfähige CMS-Engine mit eigener Admin-Oberfläche, ein Docker-Image, je Marke eine Konfiguration | [cms.janeway.io](https://cms.janeway.io/) |
 | [janeway-commerce](https://github.com/Janeway-Technology/janeway-commerce) | Janeway Commerce: Warenwirtschaft und Shop (WWS) |  |
+| [janeway-dictate](https://github.com/Janeway-Technology/janeway-dictate) | Push-to-Talk Speech-to-Text for GNOME/Linux using faster-whisper *(archiviert, öffentlich)* |  |
 | [janeway-hosting](https://github.com/Janeway-Technology/janeway-hosting) | Frontend der Managed-VPS-Plattform: Konfigurator, Server, SSH-Keys | [hosting.janewaylabs.com](https://hosting.janewaylabs.com/) |
 | [janeway-hosting-engine](https://github.com/Janeway-Technology/janeway-hosting-engine) | Control-Plane der Managed-VPS-Plattform: Bestellungen, Server beim Provider, Reconciler |  |
 
 ## Websites
 
-Unsere eigenen Websites und die Kundenseiten, nach Kunden geordnet im Sammelrepo [kundenprojekte](https://github.com/Janeway-Technology/kundenprojekte).
+Unsere eigenen Websites und die Kundenseiten, Übersicht im [Sammelrepo](https://github.com/Janeway-Technology/janeway-websites).
 
 | Repo | Worum es geht | Adresse |
 |---|---|---|
@@ -227,7 +226,7 @@ Unsere eigenen Websites und die Kundenseiten, nach Kunden geordnet im Sammelrepo
 | [primus-fs-website](https://github.com/Janeway-Technology/primus-fs-website) | Website von Primus FS |  |
 | [rhinpassage-website](https://github.com/Janeway-Technology/rhinpassage-website) | Website RhinPassage, Pospiech Gruppe (Next.js) |  |
 | [rhinquartier-website](https://github.com/Janeway-Technology/rhinquartier-website) | Website RhinQuartier, mehrsprachig de/en/ru (Next.js 16, Docker) | [rhinquartier.de](https://rhinquartier.de/) |
-| [rundum-ruppin](https://github.com/lpritzkow21/rundum-ruppin) | Monorepo der Unternehmensgruppe Rundum Ruppin, je Bereich eine Next.js-App |  |
+| [rundum-ruppin-website](https://github.com/Janeway-Technology/rundum-ruppin-website) | Website der Unternehmensgruppe Rundum Ruppin, Monorepo mit einer Next.js-App je Bereich |  |
 | [ruppiner-ingenieur-gesellschaft-website](https://github.com/Janeway-Technology/ruppiner-ingenieur-gesellschaft-website) | Website der Ruppiner Ingenieurgesellschaft mbH |  |
 | [sag-protection-website](https://github.com/Janeway-Technology/sag-protection-website) | Website von SAG Protection |  |
 | [unibau-website](https://github.com/Janeway-Technology/unibau-website) | Website von Unibau |  |
@@ -235,12 +234,13 @@ Unsere eigenen Websites und die Kundenseiten, nach Kunden geordnet im Sammelrepo
 
 ## Sonstige
 
-| Repo | Worum es geht | Adresse |
-|---|---|---|
-| [handy-spiegel](https://github.com/Janeway-Technology/handy-spiegel) | Android-Handy auf PC oder Fernseher spiegeln, mit wenig Verzögerung, Controller und ohne Kabel (GTK4-Oberfläche für scrcpy) *(öffentlich)* |  |
-| [janeway-dictate](https://github.com/Janeway-Technology/janeway-dictate) | Push-to-Talk Speech-to-Text for GNOME/Linux using faster-whisper *(archiviert, öffentlich)* |  |
-| [matrix-e2ee-bot](https://github.com/Janeway-Technology/matrix-e2ee-bot) | Self-hosted Matrix bot microservice with E2EE and REST API *(öffentlich)* |  |
-| [telegram-signal-analyse](https://github.com/Janeway-Technology/telegram-signal-analyse) | Telegram-Signalanalyse: liest Signalgruppen, erkennt Handelssignale und prüft sie |  |
+Übersicht im [Sammelrepo](https://github.com/Janeway-Technology/janeway-sonstige).
+
+| Repo | Worum es geht |
+|---|---|
+| [handy-spiegel](https://github.com/Janeway-Technology/handy-spiegel) | Android-Handy auf PC oder Fernseher spiegeln, mit wenig Verzögerung, Controller und ohne Kabel (GTK4-Oberfläche für scrcpy) *(öffentlich)* |
+| [matrix-e2ee-bot](https://github.com/Janeway-Technology/matrix-e2ee-bot) | Self-hosted Matrix bot microservice with E2EE and REST API *(öffentlich)* |
+| [telegram-signal-analyse](https://github.com/Janeway-Technology/telegram-signal-analyse) | Telegram-Signalanalyse: liest Signalgruppen, erkennt Handelssignale und prüft sie |
 <!-- org-listen:ende -->
 
 ---
