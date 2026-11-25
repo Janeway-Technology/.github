@@ -190,7 +190,7 @@ Laufen ohne die Suite: Hosting, CMS mit Buchungsmodul, Warenwirtschaft und Shop,
 | [janeway-bookings](https://github.com/Janeway-Technology/janeway-bookings) | Channelmanager-Buchungsmodul für @janeway/cms (v1: Webplanner) |  |
 | [janeway-cms](https://github.com/Janeway-Technology/janeway-cms) | Janeway CMS: modulare, markenfähige CMS-Engine mit eigener Admin-Oberfläche, ein Docker-Image, je Marke eine Konfiguration | [cms.janeway.io](https://cms.janeway.io/) |
 | [janeway-commerce](https://github.com/Janeway-Technology/janeway-commerce) | Janeway Commerce: Warenwirtschaft und Shop (WWS) |  |
-| [janeway-dictate](https://github.com/Janeway-Technology/janeway-dictate) | Push-to-Talk Speech-to-Text for GNOME/Linux using faster-whisper *(archiviert, öffentlich)* |  |
+| [janeway-dictate](https://github.com/Janeway-Technology/janeway-dictate) | Janeway Dictate: Push-to-Talk-Spracherkennung für GNOME und Linux mit faster-whisper *(archiviert, öffentlich)* |  |
 | [janeway-hosting](https://github.com/Janeway-Technology/janeway-hosting) | Frontend der Managed-VPS-Plattform: Konfigurator, Server, SSH-Keys | [hosting.janewaylabs.com](https://hosting.janewaylabs.com/) |
 | [janeway-hosting-engine](https://github.com/Janeway-Technology/janeway-hosting-engine) | Control-Plane der Managed-VPS-Plattform: Bestellungen, Server beim Provider, Reconciler |  |
 
