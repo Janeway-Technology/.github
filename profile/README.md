@@ -239,6 +239,8 @@ Unsere eigenen Websites und die Kundenseiten, Übersicht im [Sammelrepo](https:/
 | Repo | Worum es geht |
 |---|---|
 | [handy-spiegel](https://github.com/Janeway-Technology/handy-spiegel) | Android-Handy auf PC oder Fernseher spiegeln, mit wenig Verzögerung, Controller und ohne Kabel (GTK4-Oberfläche für scrcpy) *(öffentlich)* |
+| [janeway-wallpapers](https://github.com/Janeway-Technology/janeway-wallpapers) | Live-Hintergründe für Jane on Android und Linux: das Janeway-Signet als Punktraster, als reine Daten ohne App-Update *(öffentlich)* |
+| [janeway-widgets](https://github.com/Janeway-Technology/janeway-widgets) | Widgets für Jane on Android und Linux: Uhr, Weather, Calendar, Tasks und mehr in Janeway-Themes, als reine Daten ohne App-Update *(öffentlich)* |
 | [matrix-e2ee-bot](https://github.com/Janeway-Technology/matrix-e2ee-bot) | Self-hosted Matrix bot microservice with E2EE and REST API *(öffentlich)* |
 | [telegram-signal-analyse](https://github.com/Janeway-Technology/telegram-signal-analyse) | Telegram-Signalanalyse: liest Signalgruppen, erkennt Handelssignale und prüft sie |
 <!-- org-listen:ende -->
